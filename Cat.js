@@ -8,3 +8,5 @@ Cat.prototype.eat = function(mouse) {
 };
 
 module.exports = Cat;	
+
+console.log('Revert this');
