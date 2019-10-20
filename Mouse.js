@@ -1,5 +1,5 @@
-function Mouse(color) {
-	this.color = color;
+function Mouse(name) {
+	this.name = name;
 	this.dead = false;
 }
 
